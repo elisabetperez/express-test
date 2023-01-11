@@ -1,6 +1,10 @@
-const jsonFile = require('./../../data.json');
+const jsonFile = require('../../data.json');
+
+
+
 
 exports.handler = async (event, context) => {
+	
  
  
 	const response = JSON.stringify(jsonFile)
