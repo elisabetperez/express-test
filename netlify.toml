@@ -1,4 +1,4 @@
 [[redirects]]
-from = "/star-wars"
-to = "/.netlify/functions/star-wars"
+from = "/custom-api"
+to = "/.netlify/functions/custom-api"
 status = 200

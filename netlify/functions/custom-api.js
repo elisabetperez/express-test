@@ -1,14 +1,7 @@
 const jsonFile = require('../../data.json');
 
-
-
-
 exports.handler = async (event, context) => {
-	
- 
- 
 	const response = JSON.stringify(jsonFile)
- 
 	return {
 		statusCode: 200,
 		body: response,
