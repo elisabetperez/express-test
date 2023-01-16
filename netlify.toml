@@ -1,4 +1,9 @@
 [[redirects]]
-from = "/custom-api"
-to = "/.netlify/functions/custom-api"
+from = "/trial"
+to = "/.netlify/functions/trial"
+status = 200
+
+[[redirects]]
+from = "/trial-v2"
+to = "/.netlify/functions/trial-v2"
 status = 200

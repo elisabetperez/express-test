@@ -1,10 +1,9 @@
 {
     "hero":{
-        "title": "Lorem ipsumsssss v1",
+        "title": "v2",
         "subtitle": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vestibulum vehicula mauris, orci vel faucibus ac tincidunt.",
         "button_label": "Button Label",
-        "button_link": "www.buttonlink.com",
-        "image": "./images/v1/bgimage.png"
+        "button_link": "www.buttonlink.com"
     },
     "body": {
         "title": "Lorem Ipsum Dolor Sit Amet",
