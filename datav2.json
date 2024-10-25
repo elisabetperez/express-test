@@ -1,6 +1,6 @@
 {
     "header":{
-        "logo": "https://tf-frontend.netlify.app/images/v2/logo.gif",
+        "logo": "https://tf-frontend.netlify.app/images/v2/logo.svg",
         "button": {
             "label": "Contact Us",
             "link": "www.contatus.com"

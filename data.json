@@ -1,6 +1,6 @@
 {
     "navbar":{
-        "logo": "https://tf-frontend.netlify.app/images/v1/logo.gif",
+        "logo": "https://tf-frontend.netlify.app/images/v1/logo.svg",
         "menu":{
             "menu_item_1": "Store",
             "menu_item_2": "Our Story",
