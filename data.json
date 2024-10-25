@@ -30,25 +30,25 @@
             "post_1": {
                 "date": "23-02-22",
                 "type": "Type A",
-                "title": "Journal 1",
+                "title": "This is the title of the journal post.",
                 "image": "https://tf-frontend.netlify.app/images/v1/post_1.png"
             },
             "post_2": {
                 "date": "22-02-22",
                 "type": "Type A",
-                "title": "Journal 2 lorem title",
+                "title": "This is the title of the journal post lorem.",
                 "image": "https://tf-frontend.netlify.app/images/v1/post_2.png"
             },
             "post_3": {
                 "date": "21-02-22",
                 "type": "Type B",
-                "title": "Lorem ipsum title 3",
+                "title": "This is the title of the journal post lorem ipsum dolor sit.",
                 "image": "https://tf-frontend.netlify.app/images/v1/post_3.png"
             },
             "post_4": {
                 "date": "20-02-22",
                 "type": "Type A",
-                "title": "This is the title 4",
+                "title": "This is the title of the journal post lorem ipsum dolor sit amet.",
                 "image": "https://tf-frontend.netlify.app/images/v1/post_4.png"
             }
         },
